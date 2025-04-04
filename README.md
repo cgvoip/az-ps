@@ -31,10 +31,10 @@ Enter the admin password: ********
 
 ## Packet Capture Input
 
-Enter the Subscription ID: 12345-abcd-67890
-Enter the Resource Group Name: MyResourceGroup
-Enter the name of the Azure service: packetCapture
-Enter the location (e.g., eastus): eastus
-Enter the capture name: MyPacketCapture
-Enter the Gateway ID: Gateway123
-Enter the storage account directory: MyStorageAccount
+Enter the Subscription ID: 12345-abcd-67890  
+Enter the Resource Group Name: MyResourceGroup  
+Enter the name of the Azure service: packetCapture  
+Enter the location (e.g., eastus): eastus  
+Enter the capture name: MyPacketCapture  
+Enter the Gateway ID: Gateway123  
+Enter the storage account directory: MyStorageAccount  
