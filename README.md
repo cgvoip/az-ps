@@ -19,15 +19,15 @@ Before running these scripts, ensure you have the following:
 
 ## Azure Resouce Deloyment Input
 
-Enter the Subscription ID: 12345-abcd-67890
-Enter the Resource Group Name: MyResourceGroup
-Enter the name of the Azure service: vm
-Enter the VM name: MyVM
-Enter the location (e.g., eastus): eastus
-Enter the VM size (e.g., Standard_B2s): Standard_B2s
-Enter the VM image (e.g., UbuntuLTS): UbuntuLTS
-Enter the admin username: adminuser
-Enter the admin password: ********
+Enter the Subscription ID: 12345-abcd-67890  
+Enter the Resource Group Name: MyResourceGroup  
+Enter the name of the Azure service: vm  
+Enter the VM name: MyVM  
+Enter the location (e.g., eastus): eastus  
+Enter the VM size (e.g., Standard_B2s): Standard_B2s  
+Enter the VM image (e.g., UbuntuLTS): UbuntuLTS  
+Enter the admin username: adminuser  
+Enter the admin password: ********  
 
 ## Packet Capture Input
 
